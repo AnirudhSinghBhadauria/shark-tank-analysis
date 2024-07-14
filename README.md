@@ -71,3 +71,23 @@
 - Amit Present - Whether Amit present in episode or not
 - Ashneer Present - Whether Ashneer present in episode or not
 - Guest Present - Whether Guest(s) present in episode or not
+
+Based on the given index, it seems like you have a dataset with the following columns:
+
+* Startups: The number of startups that appeared on the show.
+* Got Offer: The number of startups that received an offer from one or more sharks.
+* Deals: The number of deals that were finalized between startups and sharks.
+* Got Offer (%): The percentage of startups that received an offer.
+* Offers converted (%): The percentage of offers that were converted into deals.
+
+
+1. Bar chart showing the number of startups that appeared on the show for each season.
+2. Stacked bar chart showing the number of startups that received an offer and the number that did not, for each season.
+3. Line chart showing the trend in the percentage of startups that received an offer over time.
+4. Scatter plot showing the relationship between the number of startups that appeared on the show and the number of deals that were finalized, with each point representing a season.
+5. Pie chart showing the proportion of startups that received an offer and the proportion that did not, for a particular season.
+6. Bar chart showing the number of deals finalized by each shark, for a particular season.
+7. Line chart showing the trend in the percentage of offers that were converted into deals over time.
+8. Histogram showing the distribution of deal sizes (in terms of investment amount or equity percentage) for a particular season.
+9. Box plot showing the distribution of deal sizes for startups in different industries, for a particular season.
+10. Heatmap showing the correlation between different variables in the dataset, such as the number of startups, the percentage of startups that received an offer, and the number of deals finalized.
