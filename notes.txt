@@ -1,15 +1,1 @@
-How many startups pitched in each season, and what were the most popular industries?
-What is the average yearly revenue and monthly sales for startups in different industries?
-How does the average gross margin and net margin vary across industries?
-What is the distribution of startup founding years, and how does it relate to the success of securing investments?
-How does the average age of presenters impact the likelihood of receiving an investment?
-What is the success rate of startups in securing investments based on their financing type (debt or equity)?
 Which sharks are most likely to invest in a startup, and what are their preferred industries?
-What are the average investment amounts and equity percentages for each shark?
-How do the valuations requested by startups compare to the actual deal valuations?
-Are startups with multiple presenters more likely to secure investments than those with a single presenter?
-Is there a correlation between the number of patents a startup has and its likelihood of receiving an investment?
-How does the presence of guest investors impact the investment outcomes for startups?
-What are the most common combinations of sharks investing together in a single deal?
-Are there any significant differences in investment patterns between male and female presenters?
-How does the cash burn rate of startups affect their chances of securing an investment?
